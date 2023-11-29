@@ -1,6 +1,6 @@
 # JS-5-ShoppingCart
 
-This is a simple shopping cart application. It allows users to add products to their cart, view the items in their cart.
+This is a simple shopping cart application. It allows users to add products to their cart, and view the items in their cart.
 
 - Add products to the shopping cart.
 - View the items in the cart.
